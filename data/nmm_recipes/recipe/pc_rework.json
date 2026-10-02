@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "T": {
+      "item": "vista:television"
+    },
+    "E": {
+      "item": "cobblemon:electirizer"
+    },
+    "B": {
+      "tag": "cobblemon:tier_1_poke_balls"
+    },
+    "W": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "pattern": [
+    "WTW",
+    "WEW",
+    "WBW"
+  ],
+  "result": {
+    "count": 1,
+    "id": "cobblemon:pc"
+  }
+}
